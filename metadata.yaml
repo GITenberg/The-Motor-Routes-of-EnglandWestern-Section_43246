@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2778
     wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
 description: 'I: Southern section. II: Western section'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43246#The-Motor-Routes-of-EnglandWestern-Section
 gutenberg_issued: '2013-07-18'
 gutenberg_type: Text
 identifiers:
