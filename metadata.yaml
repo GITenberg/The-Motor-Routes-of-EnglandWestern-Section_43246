@@ -1,0 +1,30 @@
+_repo: The-Motor-Routes-of-EnglandWestern-Section_43246
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43246-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+description: 'I: Southern section. II: Western section'
+gutenberg_issued: '2013-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43246'
+  lccn: a11002794
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcc 'GV'
+- !lcsh 'England -- Description and travel'
+title: 'The Motor Routes of England: Western Section'
+url: http://www.gutenberg.org/ebooks/43246
